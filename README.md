@@ -8,7 +8,7 @@ Issues regarding the simulator should be posted here https://github.com/udacity/
 
 The simulator has some controls you might be interested in:
 
-![](./controls-menu.gif)
+![Controls Menu GIF](./controls-menu.gif)
 
 ### Linux Troubleshooting
 
