@@ -4,6 +4,12 @@ Binaries for FCND-Simulator. Download the binary for your platform from the [rel
 
 Issues regarding the simulator should be posted here https://github.com/udacity/fcnd-issue-reports.
 
+### Simulator Controls Menu
+
+The simulator has some controls you might be interested in:
+
+![](./controls-menu.gif)
+
 ### Linux Troubleshooting
 
 The Linux binary may not have executable permission depending on your OS. To change this navigate to the binary file in the terminal and type the following command:
